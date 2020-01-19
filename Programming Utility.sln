@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming Utility", "Programming Utility\Programming Utility.csproj", "{B16C06F9-56ED-4F19-9DA5-A1B5B3A99ADB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceEngine", "DifferenceEngine\DifferenceEngine.csproj", "{FAF14D24-B9AD-47E0-AF08-F50B9C91204D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16C06F9-56ED-4F19-9DA5-A1B5B3A99ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16C06F9-56ED-4F19-9DA5-A1B5B3A99ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16C06F9-56ED-4F19-9DA5-A1B5B3A99ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16C06F9-56ED-4F19-9DA5-A1B5B3A99ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF14D24-B9AD-47E0-AF08-F50B9C91204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF14D24-B9AD-47E0-AF08-F50B9C91204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF14D24-B9AD-47E0-AF08-F50B9C91204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF14D24-B9AD-47E0-AF08-F50B9C91204D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
